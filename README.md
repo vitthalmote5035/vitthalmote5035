@@ -59,31 +59,6 @@ I strongly believe in **learning by doing**, documenting my work, and following 
 
 ---
 
-## 📂 Featured Cybersecurity Projects
-
-🔹 **[Linux Security Monitoring & Threat Detection Automation](https://github.com/vitthalmote5035/linux-security-monitoring)**  
-- Automated log monitoring & threat detection using Bash
-- Cron-based security scans with email alerts
-- Fail2Ban & iptables-based automated IP blocking
-- Daily security report generation
-
-🔹 **[Pentest Home Lab](https://github.com/vitthalmote5035/pentest-home-lab)**  
-- Network scanning & enumeration
-- Vulnerability identification
-- Exploitation basics
-- Professional pentest reporting
-
-🔹 **[SOC Home Lab](https://github.com/vitthalmote5035/soc-home-lab)**  
-- Log collection & analysis
-- Alert investigation
-- Incident response documentation
-
-🔹 **[CTF Writeups](https://github.com/vitthalmote5035/ctf-writeups)**  
-- TryHackMe & beginner CTF challenges
-- Step-by-step methodology & learning notes
-
----
-
 ## 💼 Internship Experience
 
 ### Cyber Security Intern – Prodigy InfoTech  
