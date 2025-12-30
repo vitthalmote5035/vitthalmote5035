@@ -101,8 +101,7 @@ I strongly believe in **learning by doing**, documenting my work, and following 
 
 ## 🎓 Education
 **Bachelor of Computer Engineering (Pursuing)**  
-PCET’s & NMVPM’s Nutan College of Engineering and Research  
-📅 2023 – 2027  
+PCET’s & NMVPM’s Nutan College of Engineering and Research (2027) 
 📊 SGPA: 7.3 (Semester IV)
 
 ---
@@ -126,4 +125,3 @@ PCET’s & NMVPM’s Nutan College of Engineering and Research
 - 💼 LinkedIn: www.linkedin.com/in/vitthal-mote-12821928b
 - 🧑‍💻 GitHub: https://github.com/vitthalmote5035
 
-⚠️ All activities are conducted in legal, ethical, and authorized environments only.
